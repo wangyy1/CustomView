@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    public int a = 1;
+    public int b = 2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
