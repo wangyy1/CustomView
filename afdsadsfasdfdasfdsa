@@ -1,0 +1,54 @@
+[33mcommit ef8ccd191932a1cab657fc35c55fd1637833b6cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 68c3f49 315cf06
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 17:48:13 2018 +0800
+
+    解决冲突后
+
+[33mcommit 68c3f49c1db5dc8e871784a0fdc27484b960cee3[m
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 17:42:55 2018 +0800
+
+    修改
+
+[33mcommit 315cf0617c312c96f49f2a5b0d4c27b38966f23c[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 17:41:05 2018 +0800
+
+    修改
+
+[33mcommit f4c6def2f67ba40b119fcc9b50de1c9e573292e2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 王勇勇 <celb1121@163.com>
+Date:   Fri Dec 28 17:27:21 2018 +0800
+
+    修改成员变量
+
+[33mcommit f52176cce477f3e4653b404aaa1469c91588d360[m
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 17:26:27 2018 +0800
+
+    增加成员变量
+
+[33mcommit eff7881032d8870eeec20077380f89176cb04949[m
+Author: 王勇勇 <celb1121@163.com>
+Date:   Fri Dec 28 16:50:11 2018 +0800
+
+    Update MainActivity.java
+
+[33mcommit cbfb671d271b858d45d878f78120c395147e3b64[m
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 16:48:40 2018 +0800
+
+    添加注释
+
+[33mcommit 31ef1c335c0360f74cdc503c16714424a3f942b1[m
+Author: YongYongWang <3524493614@qq.com>
+Date:   Fri Dec 28 16:06:55 2018 +0800
+
+    首次提交.
+
+[33mcommit 46162c92e927d74d3f5d259a8283b6e2d89c407e[m
+Author: 王勇勇 <celb1121@163.com>
+Date:   Fri Dec 28 15:18:59 2018 +0800
+
+    Initial commit
